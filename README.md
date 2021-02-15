@@ -11,6 +11,10 @@ Final Year Project on Diseases Prediction System Developed though Machine Learni
 
 This System Predict Different types of Disease through given Symptoms. 
 
+Datasets contain more than 4000 types of Diseases. 
+
+### You can use this Project in your college and work
+
 ******************************************************************************************************************************************************************
 Hi there, 
 
