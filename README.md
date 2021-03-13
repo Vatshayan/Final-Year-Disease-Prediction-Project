@@ -16,8 +16,7 @@ Datasets contain more than 4000 types of Diseases.
 ### You can use this Project in your college and work
 
 ******************************************************************************************************************************************************************
-Hi there, 
-
+Hi there👋
 ## HOW TO RUN THIS PROJECT -
 Mail me Now at **vatshayan007@gmail.com** to get Project report, PPT, Project Code and Synopsis.
 
@@ -25,8 +24,6 @@ Mail me Now at **vatshayan007@gmail.com** to get Project report, PPT, Project Co
 Mail me at **vatshayan007@gmail.com** to get Help on kind of Project related to Machine Learning, Cryptography, Data Science and Web Development. 
 
 📫 **HOW TO REACH ME**
-
-💬 Click on this link to message me directly on Whatsapp- **https://wa.me/message/CHWN2AHCPMAZK1**
 
 💬 Gmail: vatshayan007@gmail.com
 
