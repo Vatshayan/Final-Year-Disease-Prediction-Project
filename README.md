@@ -1,7 +1,5 @@
 # Final-Year-Disease-Prediction-Project
 
-![clientLogo](https://user-images.githubusercontent.com/28294942/107939194-67b67180-6fac-11eb-8543-8024509dd03e.png)
-
 
 Final Year Project on Diseases Prediction System Developed though Machine Learning and Python
 
