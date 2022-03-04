@@ -11,7 +11,9 @@ This System Predict Different types of Disease through given Symptoms.
 
 Datasets contain more than 4000 types of Diseases. 
 
-### You can use this Project in your college and work
+You can use this Project in your college and work
+
+### Youtube Video of Project : https://youtu.be/SxEmvvdmdd8
 
 ******************************************************************************************************************************************************************
 Hi there👋
@@ -21,8 +23,9 @@ Mail me Now at **vatshayan007@gmail.com** to get Project report, PPT, Project Co
 ## CONTACT -
 Mail me at **vatshayan007@gmail.com** to get Help on kind of Project related to Machine Learning, Cryptography, Data Science and Web Development. 
 
-📫 **HOW TO REACH ME**
+# 📫 How to reach me
+-    WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
-💬 Gmail: vatshayan007@gmail.com
+-    Gmail: **vatshayan007@gmail.com**
 
 Ask Freely!
