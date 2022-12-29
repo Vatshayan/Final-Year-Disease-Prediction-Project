@@ -3,7 +3,8 @@
 
 Final Year Project on Diseases Prediction System Developed though Machine Learning and Python
 
-<img width="637" alt="111044428-ab4ab100-846e-11eb-889d-befda0eba644" src="https://user-images.githubusercontent.com/28294942/209925592-71cb3afb-b531-421c-9192-c6f952e38d65.png">
+![clientLogo](https://user-images.githubusercontent.com/28294942/107939194-67b67180-6fac-11eb-8543-8024509dd03e.png)
+
 
 
 **Machine Learning** - Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
