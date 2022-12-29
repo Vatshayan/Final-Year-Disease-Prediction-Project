@@ -3,8 +3,9 @@
 
 Final Year Project on Diseases Prediction System Developed though Machine Learning and Python
 
-![clientLogo](https://user-images.githubusercontent.com/28294942/107939194-67b67180-6fac-11eb-8543-8024509dd03e.png)
+## Youtube Implementation of Project : https://youtu.be/SxEmvvdmdd8
 
+![clientLogo](https://user-images.githubusercontent.com/28294942/107939194-67b67180-6fac-11eb-8543-8024509dd03e.png)
 
 
 **Machine Learning** - Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
@@ -19,7 +20,7 @@ You can use this Project in your college and work
 
 ## Youtube Demo Video of Project : https://youtu.be/SxEmvvdmdd8
 
-### Base Research paper : https://ieeexplore.ieee.org/document/9154130
+## Base Research paper : https://ieeexplore.ieee.org/document/9154130
 
 ******************************************************************************************************************************************************************
 Hi there👋
